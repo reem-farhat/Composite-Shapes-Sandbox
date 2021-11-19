@@ -49,7 +49,7 @@ void draw() {
   //
   color measlesColour= color(random(0, 225), random(255), random(255));
   //Population that changes 
-  measleX = random(displayWidth);
+  measleX = random(displayWidth*1/4 , displayWidth*3/4);
   measleY = random(displayHeight);
   measleDiameter = random(displayWidth*1/30, displayWidth*1/10);
   //
