@@ -8,7 +8,7 @@ float rightEyeX, rightEyeY;
 float noseX1, noseY1, noseX2, noseY2, noseX3, noseY3;
 float mouthX1, mouthY1, mouthX2, mouthY2, mouthThick;
 float measleX, measleY, measleDiameter, measlesBox;
-color purple = #F2A4F2;
+color purple = #E05B5B;
 float reset;
 color resetColour=#FFFFFF;
 //
